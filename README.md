@@ -3,6 +3,7 @@
 
 Date: 27/10/2023
 <br>
+
 Todays learning was a good experience 
 <br>
 in which
@@ -19,4 +20,5 @@ in which
 [2] How to apply css (css basic)
 
 <br>
+
 ![Alt text](<It's my first web page.png>)
