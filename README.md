@@ -6,7 +6,7 @@ Date: 27/10/2023
 
 Todays learning was a good experience 
 <br>
-in which
+in which I learnt
 <br>
 
 [1] How to create a web page
