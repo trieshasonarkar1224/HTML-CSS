@@ -26,3 +26,25 @@ in which I learnt
 <br>
 
 ![Alt text](<It's my first web page.png>)
+
+<br>
+
+Date:- 30/10/2023
+
+<br>
+
+today i learnt about 
+<br>
+
+[1] Validating web pages
+<br>
+[2 ]The head section
+<br>
+[3] Text
+<br>
+[4] Entites
+<br>
+[5] Hyperlinks 
+<br>
+[6] Images
+<br>
